@@ -1,5 +1,4 @@
 public class Exponential {
-    private boolean closed = false;
 
     public Exponential() {
     }
